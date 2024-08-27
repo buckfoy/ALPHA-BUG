@@ -8,8 +8,8 @@ global.ytname = "YT: BERA_TECH"
 global.socialm = "GitHub: berabotsmd"
 global.location = "Kenya, kitale"
 
-global.ownernumber = '254743982206'  //creator number
-global.ownername = 'BRUCE BERA👑' //owner name
+global.ownernumber = '254759799995'  //creator number
+global.ownername = 'BUCKFOY👑' //owner name
 global.botname = '🄰🄻🄿🄷🄰-🄱🅄🄶' //name of the bot
 
 //sticker details
@@ -27,8 +27,8 @@ global.link = 'https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = false //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
